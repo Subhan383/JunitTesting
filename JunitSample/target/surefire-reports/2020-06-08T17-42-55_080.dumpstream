@@ -1,0 +1,4 @@
+# Created at 2020-06-08T17:42:55.283
+Boot Manifest-JAR contains absolute paths in classpath 'K:\Eclipse_Oxygen_Wrokspace\JunitSample\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
